@@ -1,0 +1,62 @@
+IP Address,Host Status,Detected OS,Open Port,Service,Vulnerability
+192.168.1.1,up,Unknown,25,SMTP,Open Mail Relay
+192.168.1.4,up,Ubuntu 20.04,445,SMB,EternalBlue Exploit
+192.168.1.5,up,Ubuntu 20.04,5900,VNC,VNC Authentication Bypass
+192.168.1.5,up,Ubuntu 20.04,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.7,up,Windows 10,3306,MySQL,MySQL Weak Credentials
+192.168.1.7,up,Windows 10,445,SMB,EternalBlue Exploit
+192.168.1.7,up,Windows 10,22,SSH,Weak SSH Ciphers
+192.168.1.8,up,Unknown,22,SSH,Weak SSH Ciphers
+192.168.1.8,up,Unknown,3389,RDP,RDP Brute Force Detected
+192.168.1.8,up,Unknown,3306,MySQL,MySQL Weak Credentials
+192.168.1.8,up,Unknown,80,HTTP,SQL Injection Detected
+192.168.1.11,up,Windows 10,5900,VNC,VNC Authentication Bypass
+192.168.1.11,up,Windows 10,445,SMB,EternalBlue Exploit
+192.168.1.11,up,Windows 10,443,HTTPS,SSL/TLS Weak Cipher
+192.168.1.11,up,Windows 10,3389,RDP,RDP Brute Force Detected
+192.168.1.12,up,Windows Server 2019,443,HTTPS,SSL/TLS Weak Cipher
+192.168.1.12,up,Windows Server 2019,3389,RDP,RDP Brute Force Detected
+192.168.1.18,up,Ubuntu 20.04,53,DNS,DNS Zone Transfer
+192.168.1.19,up,Ubuntu 20.04,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.19,up,Ubuntu 20.04,53,DNS,DNS Zone Transfer
+192.168.1.19,up,Ubuntu 20.04,445,SMB,EternalBlue Exploit
+192.168.1.19,up,Ubuntu 20.04,22,SSH,Weak SSH Ciphers
+192.168.1.20,up,Ubuntu 20.04,22,SSH,Weak SSH Ciphers
+192.168.1.23,up,Unknown,25,SMTP,Open Mail Relay
+192.168.1.24,up,Kali Linux,53,DNS,DNS Zone Transfer
+192.168.1.26,up,Windows Server 2019,443,HTTPS,SSL/TLS Weak Cipher
+192.168.1.26,up,Windows Server 2019,80,HTTP,SQL Injection Detected
+192.168.1.26,up,Windows Server 2019,3389,RDP,RDP Brute Force Detected
+192.168.1.26,up,Windows Server 2019,445,SMB,EternalBlue Exploit
+192.168.1.27,up,Windows 10,5900,VNC,VNC Authentication Bypass
+192.168.1.27,up,Windows 10,445,SMB,EternalBlue Exploit
+192.168.1.28,up,Unknown,53,DNS,DNS Zone Transfer
+192.168.1.28,up,Unknown,25,SMTP,Open Mail Relay
+192.168.1.31,up,Unknown,443,HTTPS,SSL/TLS Weak Cipher
+192.168.1.32,up,Unknown,21,FTP,Anonymous FTP Access
+192.168.1.32,up,Unknown,25,SMTP,Open Mail Relay
+192.168.1.32,up,Unknown,53,DNS,DNS Zone Transfer
+192.168.1.33,up,Windows 10,53,DNS,DNS Zone Transfer
+192.168.1.33,up,Windows 10,3389,RDP,RDP Brute Force Detected
+192.168.1.33,up,Windows 10,5900,VNC,VNC Authentication Bypass
+192.168.1.33,up,Windows 10,443,HTTPS,SSL/TLS Weak Cipher
+192.168.1.34,up,Unknown,53,DNS,DNS Zone Transfer
+192.168.1.36,up,Ubuntu 20.04,25,SMTP,Open Mail Relay
+192.168.1.36,up,Ubuntu 20.04,22,SSH,Weak SSH Ciphers
+192.168.1.36,up,Ubuntu 20.04,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.40,up,Windows Server 2019,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.40,up,Windows Server 2019,25,SMTP,Open Mail Relay
+192.168.1.40,up,Windows Server 2019,80,HTTP,SQL Injection Detected
+192.168.1.40,up,Windows Server 2019,53,DNS,DNS Zone Transfer
+192.168.1.41,up,Kali Linux,5900,VNC,VNC Authentication Bypass
+192.168.1.46,up,Unknown,3306,MySQL,MySQL Weak Credentials
+192.168.1.46,up,Unknown,3389,RDP,RDP Brute Force Detected
+192.168.1.46,up,Unknown,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.46,up,Unknown,22,SSH,Weak SSH Ciphers
+192.168.1.48,up,Windows 10,21,FTP,Anonymous FTP Access
+192.168.1.49,up,Ubuntu 20.04,445,SMB,EternalBlue Exploit
+192.168.1.49,up,Ubuntu 20.04,3306,MySQL,MySQL Weak Credentials
+192.168.1.50,up,Windows Server 2019,445,SMB,EternalBlue Exploit
+192.168.1.50,up,Windows Server 2019,25,SMTP,Open Mail Relay
+192.168.1.50,up,Windows Server 2019,3389,RDP,RDP Brute Force Detected
+192.168.1.50,up,Windows Server 2019,53,DNS,DNS Zone Transfer
